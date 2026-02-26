@@ -1,0 +1,124 @@
+{
+    "common": {
+        "brand": "UVP SCHALTSCHRANKBAU",
+        "examples": "PROJEKT-PORTFOLIO",
+        "excellence": "FUTURE",
+        "precision": "ENGINEERING",
+        "allRights": "ALLE RECHTE VORBEHALTEN",
+        "ready": "AKTIV",
+        "loading": "Laden...",
+        "category": "Technologie",
+        "standard": "Industriell",
+        "photo": "FOTO",
+        "model3d": "3D MODELL",
+        "contact": "Kontakt",
+        "language": "SPRACHE"
+    },
+    "home": {
+        "heroDesc": "Der neue Standard im Schaltschrankbau mit KI-gestütztem Engineering und Technologie des Digitalen Zwillings: Schneller. Intelligenter. Fehlerfrei.",
+        "aiFocus": "KI-GESTÜTZT",
+        "digitalTwin": "DIGITALER ZWILLING",
+        "highlights": {
+            "smartControl": "Jährliche Produktionskapazität",
+            "smartControlDesc": "KI-optimierte Serienfertigungslinie",
+            "safety": "Branchenerfahrung",
+            "safetyDesc": "Expertise in der Industrieautomation und Energie",
+            "efficiency": "Digitaler Workflow",
+            "efficiencyDesc": "Papierlose, fehlerfreie und vollständig rückverfolgbare Produktion"
+        },
+        "stats": {
+            "panels": {
+                "value": 1000,
+                "suffix": "m+",
+                "label": "Schränke / Jahr"
+            },
+            "experience": {
+                "value": 20,
+                "suffix": "+",
+                "label": "Jahre Erfahrung"
+            },
+            "digital": {
+                "value": 100,
+                "suffix": "%",
+                "label": "Digitalisierung"
+            }
+        },
+        "taglineSmall": "INDUSTRIESTANDARD",
+        "taglineBig": "PRÄZISION. QUALITÄT. VERTRAUEN.",
+        "cta": "Nutzen Sie schon heute die Technologie von morgen für Ihre Schaltschrank-Projekte."
+    },
+    "viewer": {
+        "title": "3D MODELL INSPEKTION",
+        "interactive": "Interaktive Ansicht",
+        "controls": {
+            "title": "Steuerung",
+            "rotate": "Drehen",
+            "zoom": "Zoomen",
+            "move": "Bewegen",
+            "autoRotate": "Rotation",
+            "static": "Statisch",
+            "close": "Schließen",
+            "reset": "Reset"
+        },
+        "error": "Modellfehler",
+        "alt": "3D Modell",
+        "help": {
+            "title": "Bedienung",
+            "rotate": "Drehen",
+            "rotateDesc": "Linke Maustaste gedrückt halten.",
+            "pan": "Verschieben",
+            "panDesc": "Rechte Maustaste gedrückt halten.",
+            "zoom": "Zoomen",
+            "zoomDesc": "Mausrad benutzen."
+        },
+        "simulationLoading": "Simulation lädt...",
+        "simulationStart": "SIMULATION STARTEN",
+        "simulationReady": "3D Vorschau bereit",
+        "modelProcessing": "MODELL WIRD VERARBEITET...",
+        "navigate": "NAVIGIEREN",
+        "back": "Zurück",
+        "exit": "Beenden",
+        "modelNotFound": "Modell nicht gefunden",
+        "backToDashboard": "Zurück zum Dashboard",
+        "sandbox": {
+            "title": "GLB Modell Sandbox",
+            "upload": "MODELL HOCHLADEN",
+            "noFile": "Keine Datei geladen",
+            "onlyGlb": "Bitte nur .glb Dateien hochladen.",
+            "fileInfo": "DATEI-INFORMATION",
+            "fileName": "Dateiname",
+            "format": "Format",
+            "controls": "STEUERUNG",
+            "mouse": "Maus: Drehen",
+            "scroll": "Scrollen: Zoomen",
+            "pan": "Alt + Klick: Verschieben",
+            "sandboxDesc": "Dieses Tool wurde speziell für Performance-Tests von Modellen entwickelt, bevor diese in das Projekt integriert werden."
+        }
+    },
+    "projects": {
+        "e210": {
+            "prefix": "",
+            "title": "Schaltschrank 1",
+            "description": "Digitale Zwilling-basierte moderne Schaltschrankmontage and E-Plan-Integration.",
+            "type": "E-Plan Montage"
+        },
+        "e500": {
+            "prefix": "",
+            "title": "Schaltschrank 2",
+            "description": "Millimetergenaue mechanische Bearbeitung mit dem Steinhauer Modcenter.",
+            "type": "Mechanische Bearbeitung"
+        },
+        "j1": {
+            "prefix": "",
+            "title": "Schaltschrank 3",
+            "description": "Vollautomatische Kabelvorbereitung und Markierung mit Komax Zeta 640.",
+            "type": "Vollautomatisch"
+        },
+        "mcc1": {
+            "prefix": "",
+            "title": "Schaltschrank 4",
+            "description": "Hocheffiziente Niederspannungs- und Energieverteilungssysteme.",
+            "type": "Energieverteilung"
+        }
+    }
+}

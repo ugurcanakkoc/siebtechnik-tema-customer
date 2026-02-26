@@ -1,0 +1,124 @@
+{
+    "common": {
+        "brand": "UVP ENCLOSURE ASSEMBLY",
+        "examples": "PROJECT PORTFOLIO",
+        "excellence": "FUTURE",
+        "precision": "ENGINEERING",
+        "allRights": "ALL RIGHTS RESERVED",
+        "ready": "ACTIVE",
+        "loading": "Loading...",
+        "category": "Technology",
+        "standard": "Industrial",
+        "photo": "PHOTO",
+        "model3d": "3D MODEL",
+        "contact": "Contact",
+        "language": "LANGUAGE"
+    },
+    "home": {
+        "heroDesc": "The new standard in enclosure assembly with AI-assisted engineering and digital twin technology: Faster. Smarter. Zero errors.",
+        "aiFocus": "AI-ASSISTED",
+        "digitalTwin": "DIGITAL TWIN CONCEPT",
+        "highlights": {
+            "smartControl": "Annual Production Capacity",
+            "smartControlDesc": "AI-optimized series production line",
+            "safety": "Industry Experience",
+            "safetyDesc": "Expertise in industrial automation and energy",
+            "efficiency": "Digital Workflow",
+            "efficiencyDesc": "Paperless, error-free, and fully traceable production"
+        },
+        "stats": {
+            "panels": {
+                "value": 1000,
+                "suffix": "m+",
+                "label": "Enclosures / Year"
+            },
+            "experience": {
+                "value": 20,
+                "suffix": "+",
+                "label": "Years Experience"
+            },
+            "digital": {
+                "value": 100,
+                "suffix": "%",
+                "label": "Digitalization"
+            }
+        },
+        "taglineSmall": "INDUSTRIAL STANDARD",
+        "taglineBig": "PRECISION. QUALITY. TRUST.",
+        "cta": "Use tomorrow's technology today for your enclosure projects."
+    },
+    "viewer": {
+        "title": "3D MODEL INSPECTION",
+        "interactive": "Interactive View",
+        "controls": {
+            "title": "Controls",
+            "rotate": "Rotate",
+            "zoom": "Zoom",
+            "move": "Move",
+            "autoRotate": "Auto Rotate",
+            "static": "Static",
+            "close": "Close",
+            "reset": "Reset"
+        },
+        "error": "Model Error",
+        "alt": "3D Model",
+        "help": {
+            "title": "How to Use?",
+            "rotate": "Rotation",
+            "rotateDesc": "Hold left click and drag.",
+            "pan": "Panning",
+            "panDesc": "Hold right click (or Shift + Left click).",
+            "zoom": "Zooming",
+            "zoomDesc": "Use the mouse wheel."
+        },
+        "simulationLoading": "Simulation loading...",
+        "simulationStart": "START SIMULATION",
+        "simulationReady": "3D Preview Ready",
+        "modelProcessing": "PROCESSING MODEL...",
+        "navigate": "NAVIGATION",
+        "back": "Back",
+        "exit": "Exit",
+        "modelNotFound": "Model not found",
+        "backToDashboard": "Back to Dashboard",
+        "sandbox": {
+            "title": "GLB Model Sandbox",
+            "upload": "UPLOAD MODEL",
+            "noFile": "No file uploaded",
+            "onlyGlb": "Please upload only .glb files.",
+            "fileInfo": "FILE INFORMATION",
+            "fileName": "File Name",
+            "format": "Format",
+            "controls": "CONTROLS",
+            "mouse": "Mouse: Rotation",
+            "scroll": "Scroll: Zoom",
+            "pan": "Alt + Click: Pan",
+            "sandboxDesc": "This tool is specially prepared for you to perform performance tests before adding models to your project."
+        }
+    },
+    "projects": {
+        "e210": {
+            "prefix": "",
+            "title": "Electrical Panel 1",
+            "description": "Modern enclosure assembly based on digital twins and E-Plan integration.",
+            "type": "E-Plan Assembly"
+        },
+        "e500": {
+            "prefix": "",
+            "title": "Electrical Panel 2",
+            "description": "Millimeter-precision mechanical processing with Steinhauer Modcenter.",
+            "type": "Mechanical Processing"
+        },
+        "j1": {
+            "prefix": "",
+            "title": "Electrical Panel 3",
+            "description": "Fully automatic wire preparation and marking with Komax Zeta 640.",
+            "type": "Fully Automatic"
+        },
+        "mcc1": {
+            "prefix": "",
+            "title": "Electrical Panel 4",
+            "description": "High-efficiency low voltage and energy distribution systems.",
+            "type": "Power Distribution"
+        }
+    }
+}
